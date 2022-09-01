@@ -5,10 +5,10 @@ body{
 }
 h1,h2{
     
-    text-decoration:overline underline;
+    text-decoration:underline;
 }
 
-.blue{
+p.para1{
     color: blue;
     font-size: 25px;
    
@@ -18,8 +18,15 @@ h1,h2{
     text-decoration: underline;
 }
 
-p.purple{
+p.para2{
     color: purple;
     font-size: 25px;
+   
+}
+
+p.para3{
+    color: purple;
+    font-size: 25px;
+    font-style:oblique;
    
 }
