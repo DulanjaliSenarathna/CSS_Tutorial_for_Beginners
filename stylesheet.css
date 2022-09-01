@@ -32,7 +32,6 @@ p.para2{
 
 p.para3{
     color: purple;
-    font-size: 25px;
-    font-style:oblique;
-   
+    font-size: 15px;
+   line-height:1.5rem;
 }
