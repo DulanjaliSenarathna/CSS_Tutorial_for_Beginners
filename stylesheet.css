@@ -34,4 +34,9 @@ p.para3{
     color: purple;
     font-size: 15px;
    line-height:1.5rem;
+   background-color:#e5e4d7;
+   padding:20px;
+   border-color:black;
+   border-width:2px;
+   border-style:solid;
 }
