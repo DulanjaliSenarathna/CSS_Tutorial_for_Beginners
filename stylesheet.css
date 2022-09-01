@@ -4,7 +4,8 @@ body{
     font-weight: normal;
 }
 h1,h2{
-    border-bottom: 1px solid black;
+    
+    text-decoration:overline underline;
 }
 
 .blue{
