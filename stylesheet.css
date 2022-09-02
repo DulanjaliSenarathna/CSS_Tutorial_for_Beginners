@@ -56,3 +56,14 @@ p.para4{
    margin-left:400px;
    padding-left:40px;
 }
+
+.imageC{
+    display:block;
+    margin-left: auto;
+    margin-right:auto;
+    padding:3px;
+    background-color:silver;
+    border-color:black;
+   border-width:2px;
+   border-style:solid;
+}
