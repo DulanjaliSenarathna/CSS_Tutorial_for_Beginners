@@ -47,10 +47,8 @@ p.para4{
     font-size: 15px;
    line-height:1.5rem;
    background-color:#e5e4d7;
-   padding:20px;
-   border-color:black;
-   border-width:2px;
-   border-style:solid;
+   padding:20px 20px 20px 70px;
+   border: black 2px solid;
    margin:20px;
    margin-top:50px;
    margin-left:400px;
