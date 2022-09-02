@@ -88,3 +88,15 @@ h3{
 .divcontent{
     color:black;
 }
+
+a:link{
+    color:blue;
+}
+
+a:visited{
+    color:#8C8c9D;
+}
+
+a:hover{
+    color:#F15A51;
+}
