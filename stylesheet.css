@@ -7,12 +7,14 @@ body{
 
 }
 h1{
+    color:green;
     text-align:center;
     text-decoration:underline;
     font-size:150%
 }
 
 h2{
+    color:green;
     text-align:center;
     text-decoration:underline;
     font-size:1.2em;
@@ -27,7 +29,6 @@ h2{
 }
 
 p.paragraph{
-    color: purple;
     font-size: 15px;
    line-height:1.5rem;
    background-color:#e5e4d7;
@@ -41,7 +42,7 @@ p.paragraph{
 }
 
 #para4homepage{
-    color: black;
+  
     font-size: 15px;
    line-height:1.5rem;
    background-color:#e5e4d7;
@@ -53,7 +54,8 @@ p.paragraph{
    padding-left:40px;
 }
 
-.imageC{
+img.imageC{
+    text-align:center;
     display:block;
     margin-left: auto;
     margin-right:auto;
@@ -62,4 +64,14 @@ p.paragraph{
     border-color:black;
    border-width:2px;
    border-style:solid;
+}
+
+#divmain{
+    color: black;
+    
+}
+
+#divbass{
+    color: black;
+    
 }
