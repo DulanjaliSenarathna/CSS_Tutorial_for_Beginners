@@ -7,13 +7,13 @@ body{
 
 }
 h1{
-    
+    text-align:center;
     text-decoration:underline;
     font-size:150%
 }
 
 h2{
-    
+    text-align:center;
     text-decoration:underline;
     font-size:1.2em;
 }
