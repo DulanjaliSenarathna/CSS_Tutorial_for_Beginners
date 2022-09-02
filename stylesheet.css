@@ -35,7 +35,9 @@ p.paragraph{
    border-color:black;
    border-width:2px;
    border-style:solid;
-   background-image: url(cloud.jpg)
+   background-image: url(cloud.jpg);
+   border-radius:10px;
+   border-bottom-color:red;
 }
 
 #para4homepage{
