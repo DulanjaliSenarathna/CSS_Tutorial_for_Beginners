@@ -18,7 +18,7 @@ h2{
     font-size:1.2em;
 }
 
-p.para1{
+#para1homepage{
     color: blue;
 }
 
@@ -26,12 +26,7 @@ p.para1{
     text-decoration: underline;
 }
 
-p.para2{
-    color: purple;
-   
-}
-
-p.para3{
+p.paragraph{
     color: purple;
     font-size: 15px;
    line-height:1.5rem;
@@ -43,7 +38,7 @@ p.para3{
    background-image: url(cloud.jpg)
 }
 
-p.para4{
+#para4homepage{
     color: black;
     font-size: 15px;
    line-height:1.5rem;
