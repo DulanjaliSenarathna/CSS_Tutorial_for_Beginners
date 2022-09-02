@@ -79,3 +79,12 @@ img.imageC{
 .highlight{
     background-color: #fff000;
 }
+
+h3{
+    color:green;
+    text-decoration:underline;
+}
+
+.divcontent{
+    color:black;
+}
