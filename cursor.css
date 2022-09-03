@@ -1,0 +1,35 @@
+body{
+    background-color:#9c9f84;
+}
+
+.button{
+    background:#e7e7e7;
+    border: 1px solid;
+    border-radius: 3px;
+    box-sizing:border-box;
+    display:block;
+    font: 700 13px Verdana, Geogia, serif;
+    height:30px;
+    line-height:28px;
+    padding:0 20px;
+    margin: 0 auto;
+}
+
+a{
+    color:#666;
+    text-decoration:none;
+    float:left;
+}
+
+a:hover{
+    color:#000;
+    background-color:#dadada;
+    cursor: url("favicon.ico"), default;
+}
+
+ul{
+    width:auto;
+    padding:0;
+    margin: 12 0 0 18;
+    list-style-type:none;
+}
