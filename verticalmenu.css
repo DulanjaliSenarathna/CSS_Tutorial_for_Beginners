@@ -19,3 +19,8 @@ ul li a{
     height:25px;
     line-height:25px;
 }
+
+ul li a:hover{
+    background-color:#d3d3d3;
+    color:black;
+}
