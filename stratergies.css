@@ -34,3 +34,7 @@
 h2~p{
     color:red;
 }
+
+p[lang*="fr"]{
+    color:orange;
+}
