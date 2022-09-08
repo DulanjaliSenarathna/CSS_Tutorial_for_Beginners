@@ -1,0 +1,33 @@
+#left{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#FFFFFE;
+    border: solid 2px black;
+}
+
+#center{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#ECF1EF;
+    border: solid 2px black;
+}
+
+#right{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#EBECE4;
+    border: solid 2px black;
+    
+}
+p{
+    color:black;
+}
+:not(p){
+    color:red;
+}
