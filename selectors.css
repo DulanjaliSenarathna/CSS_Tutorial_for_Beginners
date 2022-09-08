@@ -18,7 +18,12 @@ h2,h3,#para1{
     text-decoration:underline;
 }
 
-/*descendant selectors*/
+/*descendant selector*/
 div p{
     font-style:italic;
+}
+
+/*child selector*/
+blockquote.test>b{
+color:purple;
 }
