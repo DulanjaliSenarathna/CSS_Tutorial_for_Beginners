@@ -1,0 +1,32 @@
+#left{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#FFFFFE;
+}
+
+#center{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#ECF1EF;
+}
+
+#right{
+    width: 300px;
+    float:left;
+    padding:15px;
+    margin:10px;
+    background-color:#EBECE4;
+    
+}
+
+#left, #center, #right{
+    border: solid 2px black;
+}
+
+#left, #center, #right{
+    border: solid 2px orange;
+}
