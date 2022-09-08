@@ -1,0 +1,24 @@
+/*type selector*/
+h1{
+    color:blue;
+}
+
+/*id selector*/
+#para1{
+    color:green;
+}
+
+/*class selector*/
+.para{
+    color:orange;
+}
+
+/*combine selectors*/
+h2,h3,#para1{
+    text-decoration:underline;
+}
+
+/*descendant selectors*/
+div p{
+    font-style:italic;
+}
