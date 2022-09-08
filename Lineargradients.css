@@ -1,0 +1,7 @@
+#box1{
+    width:800px;
+    height:300px;
+    float:left;
+    background:blue;
+    background:linear-gradient(blue 50%,yellow 50%);
+}
