@@ -30,3 +30,7 @@
 #left, #center, #right{
     border: solid 2px orange;
 }
+
+h2~p{
+    color:red;
+}
