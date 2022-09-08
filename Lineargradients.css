@@ -5,3 +5,15 @@
     background:blue;
     background:linear-gradient(rgba(255,255,0,0.3) , rgba(0,0,255,1.0));
 }
+
+#text1{
+text-align:center;
+font:bold 60px Helvetica;
+text-shadow:3px 3px 5px orange, 6px 3px 5px blue;
+}
+
+#text2{
+    text-align:center;
+font:bold 60px Helvetica;
+text-shadow:3px 3px 5px rgba(0,0,255,0.3);
+}
